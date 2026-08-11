@@ -38,7 +38,7 @@
 ## Phase 5 — Packaging (Python project, v1)
 - [x] Clean up notebook: remove dead cells, add markdown headers matching the phases above
 - [x] Write README.md: business question at the top, then findings, then methodology, then limitations
-- [ ] Push to GitHub with a clear repo name (not "chess-eda")
+- [x] Push to GitHub with a clear repo name (not "chess-eda") — https://github.com/BurairCodes/lichess-matchmaking-fairness
 
 ## Phase 6 — Dashboard version (later, once BI tool is ready)
 - [ ] Decide Power BI or Tableau
